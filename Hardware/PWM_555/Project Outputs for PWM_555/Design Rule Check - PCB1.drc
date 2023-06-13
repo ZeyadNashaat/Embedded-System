@@ -1,0 +1,61 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Zeyad Mohamed\Downloads\Embedded Hardware training\PWM_555\PCB1.PcbDoc
+Date     : 3/5/2022
+Time     : 2:48:07 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net Trig Between Pad R2-2(186.055mm,14.859mm) on Multi-Layer And Pad C1-1(188.595mm,39.243mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Trig Between Pad C1-1(188.595mm,39.243mm) on Top Layer And Pad U1-2(199.136mm,34.036mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2(187.095mm,39.243mm) on Top Layer And Pad U1-1(199.136mm,36.576mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_1 Between Pad R2-1(186.055mm,17.399mm) on Multi-Layer And Pad D1-1(186.442mm,29.845mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_2 Between Pad D2-1(194.818mm,30.232mm) on Multi-Layer And Pad R1-1(209.931mm,29.718mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD2_2 Between Pad R2-3(186.055mm,12.319mm) on Multi-Layer And Pad D2-2(194.818mm,37.332mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD2_2 Between Pad D2-2(194.818mm,37.332mm) on Multi-Layer And Pad U1-7(206.756mm,34.036mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad U1-8(206.756mm,36.576mm) on Multi-Layer And Pad R1-2(209.931mm,37.338mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Trig Between Pad U1-2(199.136mm,34.036mm) on Multi-Layer And Pad U1-6(206.756mm,31.496mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad U1-4(199.136mm,28.956mm) on Multi-Layer And Pad U1-8(206.756mm,36.576mm) on Multi-Layer 
+Rule Violations :10
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C1-1(188.595mm,39.243mm) on Top Layer And Pad C1-2(187.095mm,39.243mm) on Top Layer [Top Solder] Mask Sliver [0.197mm]
+Rule Violations :1
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Pad R1-1(209.931mm,29.718mm) on Multi-Layer And Track (209.931mm,30.759mm)(209.931mm,30.988mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Pad R1-2(209.931mm,37.338mm) on Multi-Layer And Track (209.931mm,36.068mm)(209.931mm,36.297mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.241mm]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 13
+Waived Violations : 0
+Time Elapsed        : 00:00:01

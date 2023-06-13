@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetR4_3 Pin=U1-2
+Removed Pin From Net: NetName=OUTA Pin=U1-3
+Added Pin To Net: NetName=OUTA Pin=U1-2
+Added Pin To Net: NetName=NetR4_3 Pin=U1-3
+Added Member To Class: ClassName=Schematic Member=Component LED1 151051VS04000
+Added Member To Class: ClassName=Schematic Member=Component P1 61300411121
+Added Member To Class: ClassName=Schematic Member=Component U1 LM358N

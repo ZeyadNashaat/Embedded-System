@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=GND Pin=Q?-1
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=+5 Pin=R4-2
+Removed Member From Class: ClassName=Schematic Member=Q?
+Change Component Footprint: Designator=R4 Old Footprint=VR5 New Footprint=AXIAL-0.3
+Change Component Comment : Designator=R4 Old Comment=RPot New Comment=Res1
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change component parameters: Designator = "R4" ("R4"); Footprint = "VR5"; UniqueID = "\VFKVHMCU" ("\VFKVHMCU")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=*(PCBComponent_1)
+Added Component: Designator=J1(TECO-282836-2_V)
+Add component (AddParameter): Name = "3D Model"; Value = "282836-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamp Material - Plating"; Value = "Brass-NickelPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material - Plating"; Value = "Brass-TinPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "13.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com.cn/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Catalog+Section%7F1308389_EUROSTYLE_TERMINAL_BLOCKS%7F0607%7Fpdf%7FEnglish%7FENG_CS_1308389_EUROSTYLE_TERMINAL_BLOCKS_0607.pdf%7F282836-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "BuchananSeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TerminalBlocks-WiretoBoard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "EurostyleTerminalBlockConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Interlocking(Side)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide(PA66),Nylon6/6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Orientation"; Value = "HorizontalwithBoard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5ULV-02B
+A98076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Female Header, Pitch 5 mm, 1 x 2 Position, Height 10 mm, Tail Length 3.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "THD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.197"(5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "Wire-to-BoardEurostyleTerminalBlocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "282836-2StatementofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Screw Material - Plating"; Value = "Brass-NickelPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Screw Thread"; Value = "M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Torque - Screw"; Value = "0.68Nm(6Lb-In)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "16-30AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Termination"; Value = "Screw-RisingCageClamp"; VariantName = "[No Variations]"
+Added Component: Designator=K1(RELAY_SRD-12VDC-SL-C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Songle Relay'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRD-12VDC-SL-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(Type 5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/151051VS04000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting color"; Value = "Bright Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Type 5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "151051VS04000"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO127P584H533-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Diotec Semiconductor'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=K1-COIL1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=Q1-1
+Change Net Name : Old Net Name=+5 New Net Name=1
+Change Net Name : Old Net Name=GND New Net Name=3
+Added Pin To Net: NetName=2 Pin=*-2
+Added Pin To Net: NetName=2 Pin=U1-3
+Added Net: Name=2
+Added Pin To Net: NetName=NetK1_COIL2 Pin=K1-COIL2
+Added Pin To Net: NetName=NetK1_COIL2 Pin=Q1-3
+Added Net: Name=NetK1_COIL2
+Added Pin To Net: NetName=NetK1_NO Pin=K1-NO
+Added Pin To Net: NetName=NetK1_NO Pin=R4-2
+Added Net: Name=NetK1_NO
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R4-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R5-2
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=Schematic Member=Component * Component_1
+Added Member To Class: ClassName=Schematic Member=Component J1 282836-2
+Added Member To Class: ClassName=Schematic Member=Component K1 SRD-12VDC-SL-C
+Added Member To Class: ClassName=Schematic Member=Component LED2 151051VS04000
+Added Member To Class: ClassName=Schematic Member=Component Q1 2N2222A
