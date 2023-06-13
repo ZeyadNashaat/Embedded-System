@@ -1,0 +1,8 @@
+Remove Pin=P4-1 From Net=A0
+Remove Pin=P4-2 From Net=A1
+Remove Pin=P4-3 From Net=A2
+Remove Pin=P4-4 From Net=A3
+Remove Pin=P4-5 From Net=A4
+Remove Pin=P4-6 From Net=A5
+Change Component Footprint: Designator=P2 Old Footprint=61300611121 New Footprint=61301211121
+Change Component Comment: Designator=P2 Old Comment=61300611121 New Comment=61301211121

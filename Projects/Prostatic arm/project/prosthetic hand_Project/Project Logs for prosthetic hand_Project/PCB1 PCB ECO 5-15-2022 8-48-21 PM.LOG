@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Change Component Footprint: Designator=C4 Old Footprint=PNSC-SVP-F8_L New Footprint=CAPPR80-750-2000X1800X2200
+Change Component Comment : Designator=C4 Old Comment=16SVP180MX New Comment=UHE2A331MHD6
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8B3A5ABD-5C0C-4134-95D1-C1047B591742 New ItemGUID=38A31A43-82EC-489C-B9CA-6CC5756D199F Old RevisionGUID=595ADC69-292D-489A-85E1-9BDFB0E334A4 New RevisionGUID=DAFFEC69-86B4-4AF8-AEFF-FF8FE21C6B25
+Change Managed Component Library Link : Designator=L2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=41009B13-6A14-4DD8-8072-61E49681F308 New ItemGUID=4229E3E3-D8E1-483E-8661-4A8C2F4BC16D Old RevisionGUID=7827876C-D359-449D-8FB2-5D05AE3539A7 New RevisionGUID=DFC43576-43F8-426E-BBA8-F7F8AD12DEFA
+Change component parameters: Designator = "C4" ("C4"); Footprint = "PNSC-SVP-F8_L"; UniqueID = "\RDDZWMKB\QWAVVPCI" ("\RDDZWMKB\QWAVVPCI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "Ø18x20mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://products.nichicon.co.jp/en/pdf/XJA043/e-uhe.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "08/2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.nichicon.co.jp/english/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Dia 18 mm, Body Length 22 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "CAPPR80-750-2000X1800X2200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "CAPA81-2290X1140_V"; UniqueID = "\RDDZWMKB\HIDVTZZT" ("\RDDZWMKB\HIDVTZZT")
+Change component parameters (AddParameter): Name = "Category"; Value = "Inductors,Coils,Chokes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Saturation"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "6.07A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/AIAP-03-220K-Abracon-datasheet-38892904.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Jan-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "26mOhmMax"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "FixedInductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Self Resonant"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Test"; Value = "1kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "33µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.abracon.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material - Core"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55degC~125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Axial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Axial Lead, Dia 11.4 mm, Body Length 22.9 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "CAPA81-2290X1140"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Q @ Freq"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "AIAP-03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.450"Diax0.900"L(11.40mmx22.90mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Wirewound"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPPR80-750-2000X1800X2200)
+Add component (AddParameter): Name = "Capacitance"; Value = "330µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø18x20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://products.nichicon.co.jp/en/pdf/XJA043/e-uhe.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "08/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.nichicon.co.jp/english/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Dia 18 mm, Body Length 22 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAPPR80-750-2000X1800X2200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Radial"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC6_1
+Added Member To Class: ClassName=U_Buck converter_5V Member=Component C6 330uf

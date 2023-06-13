@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetD2_1 Pin=L2-1
+Removed Pin From Net: NetName=5V_out Pin=L2-2
+Removed Member From Class: ClassName=U_Buck converter_5V Member=L2
+Added Component: Designator=L?(ABRA-AIAP-02-2_V2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.abracon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.abracon.com/Magnetics/axial/AIAP-02.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.abracon.com/Magnetics/axial/AIAP-02.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2/12/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR Max"; Value = "2.3 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDC Max"; Value = "0.4 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "33 uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial Leaded, Dia 6.4 mm, Length 14 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AIAP-02-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 02.12.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AIAP-02-102K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/- 10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_1 Pin=L?-1
+Added Pin To Net: NetName=5V_out Pin=L?-2
+Added Member To Class: ClassName=U_Buck converter_5V Member=Component L? AIAP-03-220K
