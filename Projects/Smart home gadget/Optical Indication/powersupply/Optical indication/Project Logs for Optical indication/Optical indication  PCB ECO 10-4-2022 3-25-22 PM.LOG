@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=KND3403A New DesignItemId=
+Change Component Library : Designator=Q1 Old Library=Integrated_Library1.IntLib New Library=KND3403A.IntLib
+Added Room: Name=Optical indication
