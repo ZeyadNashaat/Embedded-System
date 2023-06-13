@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+int in;
+printf("please enter a value:")
+scanf("%d",&in);
+printf("your input is %d",in);
+}

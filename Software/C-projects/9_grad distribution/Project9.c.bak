@@ -1,0 +1,36 @@
+#include<stdio.h>
+int main()
+{
+float grade;
+printf("Enter your grade:");
+scanf("%f",&grade);
+if (grade<0)
+{
+printf("Enter grade between 0-100");
+}
+else if((grade<50)
+{
+printf("Failed");
+}
+else if(grade<65)
+{
+printf("Normal");
+}
+else if (grade<75)
+{
+printf("Good");
+}
+else if (grade<85)
+{
+printf("Very good");
+}
+else if (grade<=100)
+{
+printf("Excellent");
+}
+else
+{
+	printf("Enter grade between 0-100");
+}
+
+}

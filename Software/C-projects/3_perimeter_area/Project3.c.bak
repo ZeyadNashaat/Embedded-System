@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+float l,w;
+printf("Enter rectangle length\n");
+scanf("%f",&l);
+printf("Enter rectangle width\n");
+scanf("%f",&w);
+float c,a;
+c=2*(l+w);
+a=l*w;
+printf("circumference is %f",c);
+printf("area is %f",a);
+}
