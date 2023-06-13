@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+	int x=10;
+	printf("Before:%d\n",x);
+	int *ptr=&x;
+	*ptr=20;
+	ptr=30;
+	printf("After:%d",x);
+}

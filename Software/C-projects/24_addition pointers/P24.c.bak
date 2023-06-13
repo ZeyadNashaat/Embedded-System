@@ -1,0 +1,16 @@
+#include<stdio.h>
+int Add_ptr(int *ptr1,int *ptr2);
+int main()
+{
+	int x,y;
+	printf("enter first number:\n");
+	scanf("%d",&x);
+	printf("enter second number:\n");
+	scanf("%d",&y);
+	printf("%d",Add_ptr(&x,&y););
+	
+}
+int Add_ptr(int *ptr1,int *ptr2)
+{
+	return *ptr1+*ptr2;
+}
