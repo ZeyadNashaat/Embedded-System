@@ -1,0 +1,69 @@
+#include<stdio.h>
+int rectangle(int l,int w, char q);//declaration of rectangle function.
+int triangle(int n, char q);// declaration of triangle function.
+//------------------------------------------------------------------------
+int main()
+{
+	char q;
+	printf("Enter sign to print with:");
+	scanf(" %c",&q);
+	char z;
+	int l,w;
+	int r;
+	printf("Enter (r for rectangle)or(t for triangle)");
+	scanf(" %c",&z);
+	switch (z)
+	{
+		case 'r':
+		rectangle(l,w,q); //call rectangle function.
+		break;
+		case 't':
+		triangle(r,q);//call triangle function.
+		break;
+		default:
+		printf("Enter r for rectangle or t for triangle");
+
+	}
+	
+}
+//--------------------------------------------------------------------------
+int rectangle(int l, int w, char q)// implementation of rectangle function.
+{
+int l_count,w_count;
+printf("Enter length:");
+scanf("%d",&l);
+printf("\n");
+printf("Enter width:");
+scanf("%d",&w);
+for (l_count=1;l_count<=l;l_count++)
+	{
+		for (w_count=1;w_count<=w;w_count++)
+	{
+			printf(" %c",q);
+	}
+		printf("\n");
+	}	
+}
+//-----------------------------------------------------------------------
+int triangle(int n, char q)//implementation of triangle function.
+{
+int i,j;//rows and columns.
+printf("Enter rows:");
+scanf("%d",&n);
+for (i=1;i<=n;i++)
+{
+	for (j=1;j<=(2*n-1);j++)
+	{
+		if (j>=(n-(i-1)) && j<=(n+(i-1)))
+		{
+			printf("%c",q);
+		}
+		else 
+		{
+			printf(" ");
+		}
+	
+	}
+	printf("\n");
+}
+}
